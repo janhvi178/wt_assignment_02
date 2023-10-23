@@ -1,0 +1,35 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: black;
+}
+
+header {
+  text-align: center;
+  background-color: #FE64C6;
+  color: white;
+  padding: 20px;
+}
+
+button {
+  border-radius: 7px;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  background-color: #cde9ff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 250px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+#about h2,
+#projects h2,
+#contact h2 
+}
